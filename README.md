@@ -1,2 +1,7 @@
 # arduino-wavemaker
-Powering a wave paddle motor with Arduino Uno
+
+Powering a wave paddle motor with Arduino Uno.
+
+## Getting started
+
+TODO
