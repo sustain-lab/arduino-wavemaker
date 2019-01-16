@@ -34,6 +34,10 @@ We can currently control:
 * Amplitude (fraction voltage of power source)
 * Number of oscillations to perform before stopping
 
+## Resources
+
+* [MegaMoto+ user manual](http://www.robotpower.com/downloads/MegaMoto-user-manual.pdf)
+
 ## Thanks
 
 * Cedric Guigand
