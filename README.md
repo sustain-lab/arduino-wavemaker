@@ -19,7 +19,7 @@ git clone https://github.com/sustain-lab/arduino-wavemaker
 
 ### Generating the signal
 
-[This notebook](https://github.com/sustain-lab/arduino-wavemaker/edit/master/wavemaker_signal.ipynb)
+[This notebook](https://github.com/sustain-lab/arduino-wavemaker/blob/master/wavemaker_signal.ipynb)
 describes how we generate the sign signal in the range [0-255] to send to the motor.
 Instead of computing the sine on the Arduino itself which requires loading the math library on the board itself,
 we generate 500 sine values with a [Python script](https://github.com/sustain-lab/arduino-wavemaker/blob/master/generate_sine_signal.py), and then copy/paste these into the Arduino code.
