@@ -26,7 +26,7 @@ we generate 500 sine values with a [Python script](https://github.com/sustain-la
 
 ### Arduino code
 
-See the full code [here](https://github.com/sustain-lab/arduino-wavemaker/edit/master/wavemaker.ino).
+See the full code [here](https://github.com/sustain-lab/arduino-wavemaker/blob/master/wavemaker.ino).
 
 We can currently control:
 
